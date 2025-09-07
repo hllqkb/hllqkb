@@ -9,8 +9,8 @@ A technology enthusiast,Proficient in mainstream programming languages and web f
 ##### I am currently studying the development of large language models<br>
 ## Tasks（2025）
 
-- [x] do u self
-- [x] learning
+- [x] be u self
+- [x] develope the learning initiative
 - [ ] entering a large company
   - [ ] play
   - [ ] bottom layer architecture is all you need
