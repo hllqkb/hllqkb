@@ -1,13 +1,25 @@
-<img align='right' src='https://i0.hdslb.com/bfs/article/76a7aa5bf78d502a7652ca412cf864483537115075840154.png'>
-<!-- https://github.com/kyechan99/capsule-render -->
+<!-- header wave | https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20hllqkb!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+</p>
 
-# Here are *hllqkb*!<img style='border-radius: 50%; height: 30px; width: 30px;' src='https://i0.hdslb.com/bfs/article/8456b6b7219f36ac42aafea10bfc0f273537115075840154.jpg'>
-<img align='middle' src='https://hb.hllqk.cn/?text=♂&bgcolor1=b100ffd9&img=https://i.imgur.com/dGqcpPU.jpg'></img><img align='middle' src='https://hb.hllqk.cn/?text=VSCode&bgcolor1=24aff2&bgcolor2=0075b8&img=https://i.imgur.com/XksHKIV.jpg'></img><img align='middle' src='https://hb.hllqk.cn/?text=JavaScript&bgcolor1=f7df37&bgcolor2=f7df37&color=333&img=https://i.imgur.com/de9PXVn.jpg'></img>
+<!-- typing banner | https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub+profile+page!;LLM+and+AI+Application+Developer;Full+Stack+Web+Developer;I+am+super+obsessed+with+programming!" />
+</p>
 
-A technology enthusiast,Proficient in mainstream programming languages and web full stack developers
+<img align='right' width='360' src='https://i0.hdslb.com/bfs/article/76a7aa5bf78d502a7652ca412cf864483537115075840154.png'>
 
-##### I am currently studying the development of large language models<br>
-## Tasks（2025）
+## About Me <img style='border-radius: 50%; height: 30px; width: 30px;' src='https://i0.hdslb.com/bfs/article/8456b6b7219f36ac42aafea10bfc0f273537115075840154.jpg'>
+
+<img align='middle' src='https://hb.hllqk.cn/?text=%E2%99%82&bgcolor1=b100ffd9&img=https://i.imgur.com/dGqcpPU.jpg'></img><img align='middle' src='https://hb.hllqk.cn/?text=VSCode&bgcolor1=24aff2&bgcolor2=0075b8&img=https://i.imgur.com/XksHKIV.jpg'></img><img align='middle' src='https://hb.hllqk.cn/?text=JavaScript&bgcolor1=f7df37&bgcolor2=f7df37&color=333&img=https://i.imgur.com/de9PXVn.jpg'></img>
+
+- A technology enthusiast, proficient in mainstream programming languages, full stack web developer
+- Currently studying the development of **large language models**
+- Building AI applications: **RAG systems, AI agents, knowledge graphs, AI music radio**
+- Tech interests: LLM app architecture, computer vision (YOLO), automation (RPA)
+
+### Tasks (2025)
 
 - [x] be u self
 - [x] develope the learning initiative
@@ -16,51 +28,66 @@ A technology enthusiast,Proficient in mainstream programming languages and web f
   - [ ] bottom layer architecture is all you need
   - [ ] ...
 
+<br clear="right"/>
+
+<img id="result" style="display: block;" src="https://counter.blankwings.com/get/@Han121010?theme=gelbooru"></img>
+
 ---
-<img id="result" style="display: block;" src="https://count.mchan.top/get/@Han121010?theme=gelbooru"></img>
 
+## Tech Stack
+
+<!-- https://github.com/tandpfun/skill-icons -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20hllqkb!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://skillicons.dev/icons?i=py,cpp,c,cs,java,js,ts,html,css,vue,php,matlab&theme=light" /><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,fastapi,spring,mysql,redis,docker,git,linux,vscode,anaconda,nodejs,md&theme=light" />
 </p>
 
-
-<div align=left>
-<img width='400px' src='https://github-readme-stats.vercel.app/api?username=hllqkb'>
-<img src='https://stats.justsong.cn/api/bilibili/?id=227561303'>
-</div>
-<div align=center>
-<img src='https://i0.hdslb.com/bfs/article/4e0320efd4b326554c8ad21a553f87313537115075840154.png' width=380px />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hllqk&layout=compact&hide_border=true&langs_count=10' width='410px'>
-
- 
-</div>  
-<br>
-<div align=center>
-
- 
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge" />
 </p>
- 
+
+---
+
+## Featured Projects
+
+<p align="center">
+<a href="https://github.com/hllqkb/Claudio"><img align="center" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hllqkb&repo=Claudio&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices"><img align="center" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hllqkb&repo=Spring-AI-Ailibaba-Best-Practices&theme=transparent&hide_border=true" /></a>
+</p>
+
+---
+
+## GitHub Stats
+
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=hllqkb&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hllqkb&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=hllqkb&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
+<br/><br/>
+<img align="center" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hllqkb&layout=compact&hide_border=true&langs_count=10&theme=transparent" />
+<img align="center" width="266" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hllqkb&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/><br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=hllqkb&theme=github-compact&hide_border=true&area=true">
-<br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
- 
+
+---
+
+<div align="center">
+
+<img src='https://i0.hdslb.com/bfs/article/4e0320efd4b326554c8ad21a553f87313537115075840154.png' width='380px' />
+
+<!-- https://github.com/PiyushSuthar/github-readme-quotes -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+## Find Me
+
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/hllqkb"><img src="https://img.shields.io/badge/GitHub-hllqkb-blue?logo=github" /></a>
@@ -70,12 +97,12 @@ A technology enthusiast,Proficient in mainstream programming languages and web f
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=hllqkb&abbreviated=true&color=yellow" />
 </p>
- 
-<!-- https://github.com/kyechan99/capsule-render -->
+
+[<img align='middle' src='https://hb.hllqk.cn/?text=%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5&img=https://i0.hdslb.com/bfs/article/a0a98c402e3649af2ffe869537e40c523537115075840154.jpg'></img>](https://cdn.shuia.tk/)[<img align='middle' src='https://hb.hllqk.cn/?text=%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2'></img>](http://www.shui.tk/)[<img align='middle' src='https://hb.hllqk.cn/?text=%E8%81%94%E7%B3%BB%E6%88%91%E5%95%8A&img=https://i0.hdslb.com/bfs/article/1de3d300d5ab49900f373786cd4dd3293537115075840154.jpg'></img>](mailto:hllqk@outlook.com)
+
+</div>
+
+<!-- footer wave | https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
-<hr>
-  
-[<img align='middle' src='https://hb.hllqk.cn/?text=个人主页&img=https://i0.hdslb.com/bfs/article/a0a98c402e3649af2ffe869537e40c523537115075840154.jpg'></img>](https://cdn.shuia.tk/)[<img align='middle' src='https://hb.hllqk.cn/?text=我的博客'></img>](http://www.shui.tk/)[<img align='middle' src='https://hb.hllqk.cn/?text=联系我啊&img=https://i0.hdslb.com/bfs/article/1de3d300d5ab49900f373786cd4dd3293537115075840154.jpg'></img>](mailto:hllqk@outlook.com)
-</div>
