@@ -1,0 +1,48 @@
+name: daily repaint
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # 08:30 Asia/Shanghai
+  workflow_dispatch:
+  pull_request:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-repaint-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  repaint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Paint today's terrain and refresh README
+        run: python scripts/repaint.py
+
+      # PR 上只出图供预览，不提交
+      - name: Upload preview
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: preview
+          path: |
+            assets/
+            README.md
+
+      - name: Commit if anything changed
+        if: github.event_name != 'pull_request'
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets README.md
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "chore: repaint $(TZ=Asia/Shanghai date +%F)"
+          git push

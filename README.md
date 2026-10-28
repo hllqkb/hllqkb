@@ -1,7 +1,14 @@
-<!-- header wave | https://github.com/kyechan99/capsule-render -->
+<!-- DAILY:START -->
+<!-- 这一块由 .github/workflows/daily.yml 每天早上自动重写，手改会被覆盖 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20hllqkb!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-10-28">
+  </picture>
 </p>
+<p align="center"><sub>今日地形 · 2026-10-28 · 晨雾 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「明朝又是孤舟别，愁见河桥酒幔青。」 窦叔向</sub></p>
+<p align="center"><sub>✍️ 最近在写：<a href="https://hllqkb.github.io/blog/posts/hello-world/">博客重新开张</a></sub></p>
+<!-- DAILY:END -->
 
 <!-- typing banner | https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
