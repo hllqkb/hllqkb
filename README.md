@@ -6,7 +6,7 @@
     <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-10-28">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-10-28 · 晨雾 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「明朝又是孤舟别，愁见河桥酒幔青。」 窦叔向</sub></p>
+<p align="center"><sub>今日地形 · 2026-10-28 · 晨雾 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「狎浪儿童，横江士女，笑指渔翁一叶轻。」 吴伟业</sub></p>
 <p align="center"><sub>✍️ 最近在写：<a href="https://hllqkb.github.io/blog/posts/hello-world/">博客重新开张</a></sub></p>
 <!-- DAILY:END -->
 
