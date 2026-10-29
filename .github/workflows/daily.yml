@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: daily-repaint-${{ github.ref }}
+  group: profile-readme-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -22,6 +22,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      # 排队期间 blog-posts.yml 可能已经提交过，先追上最新再画，否则 push 会被拒
+      - name: Catch up with latest main
+        if: github.event_name != 'pull_request'
+        run: git pull --ff-only
 
       - name: Paint today's terrain and refresh README
         run: python scripts/repaint.py

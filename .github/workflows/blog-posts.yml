@@ -1,0 +1,34 @@
+name: latest blog posts
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # 每 6 小时读一次博客 RSS
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 和 daily.yml 共用一个组，两个工作流不会同时改 README
+concurrency:
+  group: profile-readme-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
+        with:
+          feed_list: "https://hllqkb-blog.pages.dev/rss/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "UTC:yyyy.mm.dd"
+          # 开始标记后换行，否则第一条会贴在注释后面，渲染不成列表
+          tag_post_pre_newline: "true"
+          commit_message: "chore: sync latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          # daily.yml 每天都会提交，仓库不会被判为不活跃，不需要空提交保活
+          enable_keepalive: false

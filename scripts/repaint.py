@@ -1,4 +1,5 @@
 """每天重画 GitHub 主页：用日期当种子画一幅低多边形地形，再刷新 README 里的当日信息块。
+新近文章列表不在这里，由 .github/workflows/blog-posts.yml 读博客 RSS 更新。
 
 只用标准库，GitHub Actions 每天 08:30（北京时间）跑一次；同一天重跑结果相同。
 """
@@ -10,7 +11,6 @@ import math
 import random
 import re
 import urllib.request
-import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from html import escape
@@ -20,8 +20,6 @@ ROOT = Path(__file__).resolve().parent.parent
 ASSETS = ROOT / "assets"
 README = ROOT / "README.md"
 
-BLOG_RSS = "https://hllqkb.github.io/blog/rss.xml"
-DAILY_RSS = "https://hllqkb.github.io/blog/daily/rss.xml"
 POEM_API = "https://v1.jinrishici.com/all.json"
 
 START = "<!-- DAILY:START -->"
@@ -204,27 +202,7 @@ def poem_of_day(rng: random.Random) -> tuple[str, str]:
     return rng.choice(FALLBACK_POEMS)
 
 
-def rss_items(url: str, limit: int) -> list[tuple[str, str]]:
-    raw = fetch(url)
-    if not raw:
-        return []
-    try:
-        channel = ET.fromstring(raw).find("channel")
-    except ET.ParseError as exc:
-        print(f"rss parse failed: {url}: {exc}")
-        return []
-    if channel is None:
-        return []
-    items: list[tuple[str, str]] = []
-    for item in channel.findall("item")[:limit]:
-        title, link = item.findtext("title"), item.findtext("link")
-        if title and link:
-            items.append((title.strip(), link.strip()))
-    return items
-
-
-def daily_block(date: str, palette_name: str, poem: tuple[str, str],
-                posts: list[tuple[str, str]], digest: list[tuple[str, str]]) -> str:
+def daily_block(date: str, palette_name: str, poem: tuple[str, str]) -> str:
     lines = [
         START,
         "<!-- 这一块由 .github/workflows/daily.yml 每天早上自动重写，手改会被覆盖 -->",
@@ -237,12 +215,6 @@ def daily_block(date: str, palette_name: str, poem: tuple[str, str],
         f'<p align="center"><sub>今日地形 · {date} · {palette_name} · 以日期为种子，每天早上重画一次'
         f" &nbsp;·&nbsp; 「{escape(poem[0])}」 {escape(poem[1])}</sub></p>",
     ]
-    if posts:
-        links = " · ".join(f'<a href="{escape(link)}">{escape(title)}</a>' for title, link in posts)
-        lines.append(f'<p align="center"><sub>✍️ 最近在写：{links}</sub></p>')
-    if digest:
-        title, link = digest[0]
-        lines.append(f'<p align="center"><sub>📰 每日速递：<a href="{escape(link)}">{escape(title)}</a></sub></p>')
     lines.append(END)
     return "\n".join(lines)
 
@@ -269,8 +241,7 @@ def main() -> None:
     (ASSETS / "terrain.svg").write_text(render(field, DAY_PALETTES[idx], sun, night=False), encoding="utf-8")
     (ASSETS / "terrain-dark.svg").write_text(render(field, NIGHT_PALETTES[idx], sun, night=True), encoding="utf-8")
 
-    block = daily_block(date, DAY_PALETTES[idx].name, poem_of_day(rng),
-                        rss_items(BLOG_RSS, 3), rss_items(DAILY_RSS, 1))
+    block = daily_block(date, DAY_PALETTES[idx].name, poem_of_day(rng))
     update_readme(block)
     print(f"repainted {date} ({DAY_PALETTES[idx].name})")
 
