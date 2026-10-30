@@ -17,7 +17,6 @@
 
 ### 最近在做什么
 
-- 在 Meshy 做后端实习，搞计费和搜索推荐。
 - 重做个人博客：在 Notion 里写，NotionNext 渲染，部署在 Cloudflare Pages，手机上写完几分钟就自动上线。主题叫 reading，纸色、墨字、霞鹜文楷，想让它读起来像一本书。
 - 写公众号「hllqkb」，记 AI 写代码、搜索排序评估这些事里的实际做法。
 - 每天用 Claude Code 写代码，边用边记，整理成博客里的几篇使用指南。
@@ -45,4 +44,4 @@
 
 ### 找到我
 
-[博客](https://hllqkb-blog.pages.dev) · [CSDN](https://blog.csdn.net/hllqkb) · [哔哩哔哩](https://space.bilibili.com/3537115075840154) · 公众号「hllqkb」 · [邮箱](mailto:hllqk@qq.com)
+[博客](https://hllqkb-blog.pages.dev) · [CSDN](https://blog.csdn.net/hllqkb) · [哔哩哔哩](https://space.bilibili.com/3537115075840154) · 公众号「hllqkb」 · [旧博客 hllqk.cn](https://www.hllqk.cn) · [邮箱](mailto:hllqk@qq.com)
