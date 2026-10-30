@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-10-29">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-10-30">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-10-29 · 秋原 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「君若清路尘，妾若浊水泥；」 曹植</sub></p>
+<p align="center"><sub>今日地形 · 2026-10-30 · 海岛 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「接天莲叶无穷碧，映日荷花别样红。」 杨万里</sub></p>
 <!-- DAILY:END -->
 
 
