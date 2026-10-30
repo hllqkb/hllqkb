@@ -6,7 +6,7 @@
     <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-10-30">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-10-30 · 海岛 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「接天莲叶无穷碧，映日荷花别样红。」 杨万里</sub></p>
+<p align="center"><sub>今日地形 · 2026-10-30 · 海岛 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「安得五彩虹，驾天作长桥。」 李白</sub></p>
 <!-- DAILY:END -->
 
 
