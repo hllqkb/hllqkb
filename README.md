@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-10-30">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-10-31">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-10-30 · 海岛 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「安得五彩虹，驾天作长桥。」 李白</sub></p>
+<p align="center"><sub>今日地形 · 2026-10-31 · 秋原 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「窗白一声鸡，枕函闻马嘶。」 顾贞观</sub></p>
 <!-- DAILY:END -->
 
 
