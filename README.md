@@ -24,11 +24,11 @@
 ### 新近文章
 
 <!-- BLOG-POST-LIST:START -->
-- [我怎么折腾出了这个像书的博客](https://hllqkb-blog.pages.dev/article/how-i-built-this-blog) <sub>2026.10.30</sub>
-- [写一篇文章测试](https://hllqkb-blog.pages.dev/article/p-87839188) <sub>2026.10.29</sub>
-- [在手机上用 Notion App 发博客：从写到上线](https://hllqkb-blog.pages.dev/article/notion-app-publish-guide) <sub>2026.10.28</sub>
-- [A/B 看不出来的时候，搜索排序还能怎么评](https://hllqkb-blog.pages.dev/article/ab-search-ranking-eval) <sub>2026.10.26</sub>
-- [AI 写代码变快以后，我卡在了哪里](https://hllqkb-blog.pages.dev/article/ai-coding-faster-stuck) <sub>2026.10.21</sub>
+- [我怎么折腾出了这个像书的博客](https://hllqk.cn/article/how-i-built-this-blog) <sub>2026.10.30</sub>
+- [在手机上用 Notion App 发博客：从写到上线](https://hllqk.cn/article/notion-app-publish-guide) <sub>2026.10.28</sub>
+- [A/B 看不出来的时候，搜索排序还能怎么评](https://hllqk.cn/article/ab-search-ranking-eval) <sub>2026.10.26</sub>
+- [AI 写代码变快以后，我卡在了哪里](https://hllqk.cn/article/ai-coding-faster-stuck) <sub>2026.10.21</sub>
+- [Claude Code 进阶使用指南](https://hllqk.cn/article/claude-code-guide) <sub>2026.07.29</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
