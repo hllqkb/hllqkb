@@ -24,7 +24,7 @@
 ### 新近文章
 
 <!-- BLOG-POST-LIST:START -->
-- [我怎么折腾出了这个像书的博客](https://hllqk.cn/article/how-i-built-this-blog) <sub>2026.10.30</sub>
+- [我是怎么样从零开始折腾的一个新博客](https://hllqk.cn/article/how-i-built-this-blog) <sub>2026.10.30</sub>
 - [在手机上用 Notion App 发博客：从写到上线](https://hllqk.cn/article/notion-app-publish-guide) <sub>2026.10.28</sub>
 - [A/B 看不出来的时候，搜索排序还能怎么评](https://hllqk.cn/article/ab-search-ranking-eval) <sub>2026.10.26</sub>
 - [AI 写代码变快以后，我卡在了哪里](https://hllqk.cn/article/ai-coding-faster-stuck) <sub>2026.10.21</sub>
