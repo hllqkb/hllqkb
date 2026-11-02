@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-01">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-02">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-01 · 青峦 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「雪粉华，舞梨花，再不见烟村四五家。」 关汉卿</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-02 · 晨雾 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「向浅洲远渚，亭亭清绝。」 张炎</sub></p>
 <!-- DAILY:END -->
 
 
