@@ -24,11 +24,11 @@
 ### 新近文章
 
 <!-- BLOG-POST-LIST:START -->
+- [南京三天回忆](https://hllqk.cn/article/p-0898866b) <sub>2026.11.04</sub>
+- [当礼貌变成武器](https://hllqk.cn/article/p-8954b68c) <sub>2026.11.03</sub>
 - [每周的总结](https://hllqk.cn/article/p-be601f64) <sub>2026.11.01</sub>
-- [关于爱情的几件事](https://hllqk.cn/article/p-db54bfee) <sub>2026.10.31</sub>
+- [关于爱情的几件事（结论版）](https://hllqk.cn/article/p-db54bfee) <sub>2026.10.31</sub>
 - [我是怎么样从零开始折腾的一个新博客](https://hllqk.cn/article/how-i-built-this-blog) <sub>2026.10.30</sub>
-- [在手机上用 Notion App 发博客：从写到上线](https://hllqk.cn/article/notion-app-publish-guide) <sub>2026.10.28</sub>
-- [A/B 看不出来的时候，搜索排序还能怎么评](https://hllqk.cn/article/ab-search-ranking-eval) <sub>2026.10.26</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
