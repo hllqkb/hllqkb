@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-03">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-04">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-03 · 晨雾 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「同穴窅冥何所望，他生缘会更难期。」 元稹</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-04 · 秋原 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「毕竟西湖六月中，风光不与四时同。」 杨万里</sub></p>
 <!-- DAILY:END -->
 
 
