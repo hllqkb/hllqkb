@@ -24,11 +24,11 @@
 ### 新近文章
 
 <!-- BLOG-POST-LIST:START -->
+- [我只是想在手机上玩以撒，后来和 Codex 做了一个网页站和 APK](https://hllqk.cn/article/isaac-web-mobile-devlog) <sub>2026.11.05</sub>
+- [我学习到的一套 Claude Code 做需求的流程](https://hllqk.cn/article/main-session-board) <sub>2026.11.05</sub>
 - [南京三天回忆](https://hllqk.cn/article/p-0898866b) <sub>2026.11.04</sub>
 - [当礼貌变成武器](https://hllqk.cn/article/p-8954b68c) <sub>2026.11.03</sub>
 - [每周的总结](https://hllqk.cn/article/p-be601f64) <sub>2026.11.01</sub>
-- [关于爱情的几件事（结论版）](https://hllqk.cn/article/p-db54bfee) <sub>2026.10.31</sub>
-- [我是怎么样从零开始折腾的一个新博客](https://hllqk.cn/article/how-i-built-this-blog) <sub>2026.10.30</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
