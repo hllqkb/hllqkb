@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-04">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-05">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-04 · 秋原 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「毕竟西湖六月中，风光不与四时同。」 杨万里</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-05 · 秋原 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「大漠风尘日色昏，红旗半卷出辕门。」 王昌龄</sub></p>
 <!-- DAILY:END -->
 
 
