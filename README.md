@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-05">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-06">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-05 · 秋原 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「大漠风尘日色昏，红旗半卷出辕门。」 王昌龄</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-06 · 秋原 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「曾伴浮云归晚翠，犹陪落日泛秋声。」 高蟾</sub></p>
 <!-- DAILY:END -->
 
 
