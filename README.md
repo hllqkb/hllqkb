@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-07">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-08">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-07 · 海岛 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「江上春山远，山下暮云长。」 葛长庚</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-08 · 海岛 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「一月可曾闲几日，百年难得闰中秋。」 慧霖</sub></p>
 <!-- DAILY:END -->
 
 
