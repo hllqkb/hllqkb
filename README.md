@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-09">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-10">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-09 · 晨雾 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「数人世相逢，百年欢笑，能得几回又。」 何梦桂</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-10 · 青峦 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「我欲穿花寻路，直入白云深处，浩气展虹霓。」 黄庭坚</sub></p>
 <!-- DAILY:END -->
 
 
