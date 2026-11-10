@@ -24,11 +24,11 @@
 ### 新近文章
 
 <!-- BLOG-POST-LIST:START -->
+- [我让 Claude Code 照着一个 3.7 万星的游戏工作室模板，做了个关于我自己的小游戏](https://hllqk.cn/article/claude-code-game-studios-both-ends) <sub>2026.11.10</sub>
 - [想做出海独立站，我先把一门 90 分钟的谷歌 SEO 课啃完了](https://hllqk.cn/article/overseas-seo-course-notes) <sub>2026.11.09</sub>
 - [多出门多聊天](https://hllqk.cn/article/p-46786be5) <sub>2026.11.08</sub>
 - [周报：一周没怎么学习的碎碎念](https://hllqk.cn/article/p-23cd8cb4) <sub>2026.11.07</sub>
 - [我只是想在手机上玩以撒，后来和 Codex 做了一个网页站和 APK](https://hllqk.cn/article/isaac-web-mobile-devlog) <sub>2026.11.05</sub>
-- [我学习到的一套 Claude Code 做需求的流程](https://hllqk.cn/article/main-session-board) <sub>2026.11.05</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
