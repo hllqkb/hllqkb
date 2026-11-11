@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-10">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-11">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-10 · 青峦 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「我欲穿花寻路，直入白云深处，浩气展虹霓。」 黄庭坚</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-11 · 青峦 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「霜风渐欲作重阳，熠熠溪边野菊香。」 苏轼</sub></p>
 <!-- DAILY:END -->
 
 
