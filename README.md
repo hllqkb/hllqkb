@@ -24,11 +24,11 @@
 ### 新近文章
 
 <!-- BLOG-POST-LIST:START -->
+- [我做了一个出海小站：ohtune，把录音转成能改的 MIDI](https://hllqk.cn/article/ohtune-launch) <sub>2026.11.12</sub>
 - [我用 Claude Code 做了个小游戏](https://hllqk.cn/article/claude-code-game-studios-both-ends) <sub>2026.11.10</sub>
 - [想做出海独立站，我先把一门 90 分钟的谷歌 SEO 课啃完了](https://hllqk.cn/article/overseas-seo-course-notes) <sub>2026.11.09</sub>
 - [多出门多聊天](https://hllqk.cn/article/p-46786be5) <sub>2026.11.08</sub>
 - [周报：一周没怎么学习的碎碎念](https://hllqk.cn/article/p-23cd8cb4) <sub>2026.11.07</sub>
-- [我只是想在手机上玩以撒，后来和 Codex 做了一个网页站和 APK](https://hllqk.cn/article/isaac-web-mobile-devlog) <sub>2026.11.05</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
