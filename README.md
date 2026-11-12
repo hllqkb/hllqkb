@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-11">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-12">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-11 · 青峦 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「霜风渐欲作重阳，熠熠溪边野菊香。」 苏轼</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-12 · 秋原 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「胡人吹笛戍楼间，楼上萧条海月闲。」 高适</sub></p>
 <!-- DAILY:END -->
 
 
