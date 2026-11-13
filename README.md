@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-12">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-13">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-12 · 秋原 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「胡人吹笛戍楼间，楼上萧条海月闲。」 高适</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-13 · 海岛 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「葡萄美酒夜光杯，欲饮琵琶马上催。」 王翰</sub></p>
 <!-- DAILY:END -->
 
 
