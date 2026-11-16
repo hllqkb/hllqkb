@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-15">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-16">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-15 · 海岛 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「世人结交须黄金，黄金不多交不深。」 张谓</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-16 · 青峦 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「长江一帆远，落日五湖春。」 刘长卿</sub></p>
 <!-- DAILY:END -->
 
 
