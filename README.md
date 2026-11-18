@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-17">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-18">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-17 · 晨雾 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「提笼忘采叶，昨夜梦渔阳。」 张仲素</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-18 · 海岛 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「红蓼渡头秋正雨，印沙鸥迹自成行，整鬟飘袖野风香。」 薛昭蕴</sub></p>
 <!-- DAILY:END -->
 
 
