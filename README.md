@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-22">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-23">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-22 · 青峦 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「桃根桃叶终相守，伴殷勤、双宿鸳鸯。」 纳兰性德</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-23 · 晨雾 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「日照香炉生紫烟，遥看瀑布挂前川。」 李白</sub></p>
 <!-- DAILY:END -->
 
 
