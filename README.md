@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-23">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-24">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-23 · 晨雾 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「日照香炉生紫烟，遥看瀑布挂前川。」 李白</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-24 · 海岛 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「独倚画栏如有意，清砧怨笛送黄昏。」 曹雪芹</sub></p>
 <!-- DAILY:END -->
 
 
