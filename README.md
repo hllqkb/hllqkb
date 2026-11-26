@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-25">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-26">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-25 · 秋原 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「金吾不禁夜，玉漏莫相催。」 苏味道</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-26 · 晨雾 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「不辞山路远，踏雪也相过。」 张九龄</sub></p>
 <!-- DAILY:END -->
 
 
