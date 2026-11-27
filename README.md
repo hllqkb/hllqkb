@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terrain-dark.svg">
-    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-26">
+    <img src="assets/terrain.svg" width="100%" alt="今日地形 2026-11-27">
   </picture>
 </p>
-<p align="center"><sub>今日地形 · 2026-11-26 · 晨雾 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「不辞山路远，踏雪也相过。」 张九龄</sub></p>
+<p align="center"><sub>今日地形 · 2026-11-27 · 秋原 · 以日期为种子，每天早上重画一次 &nbsp;·&nbsp; 「轮台东门送君去，去时雪满天山路。」 岑参</sub></p>
 <!-- DAILY:END -->
 
 
